@@ -1,0 +1,25 @@
+{
+  "name": "guess-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inu1255/guess-words.git"
+  },
+  "author": "inu1255",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inu1255/guess-words/issues"
+  },
+  "homepage": "https://github.com/inu1255/guess-words#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "co": "^4.6.0",
+    "lodash": "^4.17.4",
+    "synaptic": "^1.1.3"
+  }
+}
